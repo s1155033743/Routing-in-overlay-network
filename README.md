@@ -12,3 +12,6 @@ This folder contains papers regarding SDN approaches in building efficient overl
 
 ### Multipath:<br/>
 This folder contains studies regarding optimizing throughput using multipath routing in overlay networks
+
+### Algorithms:<br/>
+This folder contains papers that proposes efficent routing algorithms, aims at finding optimized path(s) against various constrains 
